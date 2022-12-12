@@ -1,0 +1,13 @@
+.description{
+    display: inline-block;
+    width: 40%;
+}
+.images{
+    vertical-align: top;
+    display: inline-block;
+    width: 55%;
+}
+img{
+    width: 10%;
+    height: 10%;
+}
