@@ -5,9 +5,10 @@
 .images{
     vertical-align: top;
     display: inline-block;
-    width: 55%;
+    width: 50%;
 }
 img{
-    width: 10%;
-    height: 10%;
+    width: 30%;
+    text-align: center;
+    margin-top: 10%;
 }
